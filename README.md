@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukul Anand
+- 👋 Hello there, I’m Mukul Anand
 - 👀 I’m interested in fields of Business Analytics, Data Science & Equity Market
 - 🌱 I’m currently learning Machine Learning Modelling
 - 📫 You can reach out to me via email(mailonmukul@gmail.com, anandmukul16@gmail.com), or via Linkedin(https://www.linkedin.com/in/mukul-anand-82250313a/)
